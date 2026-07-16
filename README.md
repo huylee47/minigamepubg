@@ -1,8 +1,9 @@
+Script trick to change speedup mini game PUBG
 
-(function() {
-    const SPEED = 0.2; // 0.5 = chậm 50%, 0.25 = chậm 75%
 
     // Override requestAnimationFrame
+    (function() {
+    const SPEED = 0.2; // 0.5 = chậm 50%, 0.25 = chậm 75%
     const originalRAF = window.requestAnimationFrame;
     let lastTime = 0;
     let accumulatedTime = 0;
@@ -39,4 +40,5 @@
     };
 
     console.log(`✅ Giảm tốc độ xuống ${SPEED}x`);
-})();
+    })();
+
