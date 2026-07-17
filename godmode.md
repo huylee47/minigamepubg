@@ -1,4 +1,4 @@
-SAU KHI COPY CODE VÀO SOURCE NHỚ STRL + S ĐỂ LƯU FILE ĐÈ
+# ⚠️ SAU KHI COPY CODE VÀO SOURCE NHỚ NHẤN `CTRL + S` ĐỂ LƯU FILE ĐÈ ⚠️
 
         handleGameOver(t) {
         if (this.isGameOver)
