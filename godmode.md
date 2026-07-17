@@ -1,7 +1,8 @@
-handleGameOver(t) {
+SAU KHI COPY CODE VÀO SOURCE NHỚ STRL + S ĐỂ LƯU FILE ĐÈ
+
+        handleGameOver(t) {
         if (this.isGameOver)
             return;
-
         if (this.allowTrueGameOver) {
             this.isGameOver = !0,
             this.audio.stopAllSfx(),
