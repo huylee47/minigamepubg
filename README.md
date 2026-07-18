@@ -1,5 +1,5 @@
 # Tổng Hợp Hướng Dẫn Script Minigame PUBG
-
+# NOTE : TRANSLATION BELOW
 > ⚠️ **CHÚ Ý QUAN TRỌNG TRƯỚC KHI LÀM:**
 > * **Không sử dụng trình duyệt Google Chrome <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/b00a1685-ffac-4c82-93ff-94105bd39e55" />.** Hãy dùng các trình duyệt khác phù hợp với hướng dẫn VD : Opera GX <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/1fcf7a87-ee69-44b5-9229-298d6478e0f4" />
 > * **Không chơi quá 20.000 (20k) điểm** để tránh gặp lỗi/bug hệ thống.
